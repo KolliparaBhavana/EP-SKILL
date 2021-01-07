@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="task1.xsl"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:noNamespaceSchemaLocation="task1.xsd">
+ <Student sid="a">
+   <no>190030808</no>
+   <name> BHAVANA </name>
+   <email>123 </email>
+   <marks>98</marks>
+   <class>F101</class> 
+ </Student>
+ <Student sid="b">
+   <no>190030000</no>
+   <name> SARA </name>
+   <email> 123 </email>
+   <marks>99</marks>
+   <class>C101</class> 
+ </Student>
+ <Student sid="c">
+   <no>3</no>
+   <name> AARTHI </name>
+   <email>123 </email>
+   <marks>97</marks>
+   <class>B101</class> 
+ </Student>
+ <Student sid="d">
+   <no>190032222</no>
+   <name> ISHITA </name>
+   <email>123 </email>
+   <marks>94</marks>
+   <class>F103</class> 
+ </Student>
+ <Student sid="e">
+   <no>190033333</no>
+   <name> NEHA </name>
+   <email>123 </email>
+   <marks>93</marks>
+   <class>F202</class> 
+ </Student>
+</Students>
+ 
